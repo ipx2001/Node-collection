@@ -19,12 +19,5 @@
     "site": "https://github.com/freefq/free/",
     "url": "https://raw.githubusercontent.com/freefq/free/master/v2",
     "enabled": true
-  },
-  {
-    "id": 3,
-    "remarks": "bihai",
-    "site": "https://proxies.bihai.cf/",
-    "url": "https://proxies.bihai.cf/ssr/sub",
-    "enabled": true
   }
 ]
