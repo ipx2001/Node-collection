@@ -131,32 +131,14 @@
 </details>
 
 ### 所有节点
-合并节点总数: `2819`
+合并节点总数: `713`
 [节点链接](https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge.txt)
 
 ### 节点来源
-- [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `62`
-- [chfchf0306/clash](https://github.com/chfchf0306/clash), 节点数量: `71`
-- [xiyaowong/freeFQ](https://github.com/xiyaowong/freeFQ), 节点数量: `180`
-- [freefq/free](https://github.com/freefq/free), 节点数量: `35`
-- [learnhard-cn/free_proxy_ss](https://github.com/learnhard-cn/free_proxy_ss), 节点数量: `181`
-- [vpei/Free-Node-Merge](https://github.com/vpei/Free-Node-Merge), 节点数量: `100`
-- [colatiger/v2ray-nodes](https://github.com/colatiger/v2ray-nodes), 节点数量: `77`
-- [oslook/clash-freenode](https://github.com/oslook/clash-freenode), 节点数量: `59`
-- [ssrsub/ssr](https://github.com/ssrsub/ssr), 节点数量: `40`
-- [Leon406/SubCrawler](https://github.com/Leon406/SubCrawler), 节点数量: `1180`
-- [umelabs/node.umelabs.dev](https://github.com/umelabs/node.umelabs.dev), 节点数量: `5`
-- [yu-steven/openit](https://github.com/yu-steven/openit), 节点数量: `0`
-- [iwxf/free-v2ray](https://github.com/iwxf/free-v2ray), 节点数量: `14`
-- [ldir92664/Vmess-Actions](https://github.com/ldir92664/Vmess-Actions), 节点数量: `71`
-- [Galaxy8053/v2ray](https://github.com/Galaxy8053/v2ray), 节点数量: `0`
-- [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg), 节点数量: `163`
-- [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe), 节点数量: `145`
-- [wrfree/free](https://github.com/wrfree/free), 节点数量: `35`
-- [GreenFishStudio/GreenFish](https://github.com/GreenFishStudio/GreenFish), 节点数量: `39`
-- [v2raydy/v2ray](https://github.com/v2raydy/v2ray), 节点数量: `125`
-- [ObcbO/auto-subscribe](https://github.com/ObcbO/auto-subscribe), 节点数量: `145`
-- [电报群分享(https://t.me/Jsnzk/4664)节点池](https://pool.jinxnet.xyz), 节点数量: `0`
+- [chfchf0306/clash](https://github.com/chfchf0306/clash), 节点数量: `62`
+- [FMYC2015/Clash](https://github.com/FMYC2015/Clash), 节点数量: `470`
+- [youhui112](https://hzx852iu28.youhui112.com/), 节点数量: `4`
+- [bihai](https://proxies.bihai.cf/), 节点数量: `177`
 
 ## 客户端选择
 ### 主流桌面客户端
