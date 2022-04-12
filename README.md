@@ -21,11 +21,10 @@
 </details>
 
 ### 所有节点
-合并节点总数: `674`
+合并节点总数: `438`
 
 ### 节点来源
 - [chfchf0306/clash](https://github.com/chfchf0306/clash), 节点数量: `50`
-- [FMYC2015/Clash](https://github.com/FMYC2015/Clash), 节点数量: `470`
+- [FMYC2015/Clash](https://github.com/FMYC2015/Clash), 节点数量: `353`
 - [freefq/free](https://github.com/freefq/free/), 节点数量: `35`
-- [bihai](https://proxies.bihai.cf/), 节点数量: `119`
 
