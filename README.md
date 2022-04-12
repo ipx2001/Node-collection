@@ -113,12 +113,12 @@
 </details>
 
 ### 所有节点
-合并节点总数: `713`
+合并节点总数: `712`
 [节点链接](https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge.txt)
 
 ### 节点来源
 - [chfchf0306/clash](https://github.com/chfchf0306/clash), 节点数量: `62`
 - [FMYC2015/Clash](https://github.com/FMYC2015/Clash), 节点数量: `470`
 - [youhui112](https://hzx852iu28.youhui112.com/), 节点数量: `4`
-- [bihai](https://proxies.bihai.cf/), 节点数量: `177`
+- [bihai](https://proxies.bihai.cf/), 节点数量: `176`
 
