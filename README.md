@@ -114,7 +114,6 @@
 
 ### 所有节点
 合并节点总数: `712`
-[节点链接](https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge.txt)
 
 ### 节点来源
 - [chfchf0306/clash](https://github.com/chfchf0306/clash), 节点数量: `62`
