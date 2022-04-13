@@ -24,7 +24,7 @@
 合并节点总数: `484`
 
 ### 节点来源
-- [chfchf0306/clash](https://github.com/chfchf0306/clash), 节点数量: `0`
+- [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `0`
 - [FMYC2015/Clash](https://github.com/FMYC2015/Clash/tree/main/2022), 节点数量: `234`
 - [freefq/free](https://github.com/freefq/free/), 节点数量: `32`
 - [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg), 节点数量: `152`
