@@ -19,5 +19,12 @@
     "site": "https://github.com/freefq/free/",
     "url": "https://raw.githubusercontent.com/freefq/free/master/v2",
     "enabled": true
+  },
+  {
+    "id": 3,
+    "remarks": "moon365free",
+    "site": "https://moon365free.pages.dev/",
+    "url": "https://flag.moon365.workers.dev/moon365free/base64",
+    "enabled": false
   }
 ]
