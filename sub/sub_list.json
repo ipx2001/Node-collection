@@ -1,30 +1,9 @@
 [
   {
     "id": 0,
-    "remarks": "pojiezhiyuanjun/freev2",
-    "site": "https://github.com/pojiezhiyuanjun/freev2",
-    "url": "https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0413.txt",
+    "remarks": "yu-steven/openit",
+    "site": "https://github.com/yu-steven/openit",
+    "url": "https://raw.githubusercontent.com/yu-steven/openit/main/long",
     "enabled": true
-  },
-  {
-    "id": 1,
-    "remarks": "FMYC2015/Clash",
-    "site": "https://github.com/FMYC2015/Clash/tree/main/2022",
-    "url": "https://raw.githubusercontent.com/FMYC2015/Clash/main/2022/2022-04-13",
-    "enabled": true
-  },
-  {
-    "id": 2,
-    "remarks": "freefq/free",
-    "site": "https://github.com/freefq/free/",
-    "url": "https://raw.githubusercontent.com/freefq/free/master/v2",
-    "enabled": true
-  },
-  {
-    "id": 3,
-    "remarks": "Jsnzkpg/Jsnzkpg",
-    "site": "https://github.com/Jsnzkpg/Jsnzkpg",
-    "url": "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg",
-    "enabled": true
-  }
+   }
 ]
