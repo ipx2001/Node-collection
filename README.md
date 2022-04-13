@@ -21,11 +21,8 @@
 </details>
 
 ### 所有节点
-合并节点总数: `484`
+合并节点总数: `66`
 
 ### 节点来源
-- [pojiezhiyuanjun/freev2](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `0`
-- [FMYC2015/Clash](https://github.com/FMYC2015/Clash/tree/main/2022), 节点数量: `234`
-- [freefq/free](https://github.com/freefq/free/), 节点数量: `32`
-- [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg), 节点数量: `152`
+- [yu-steven/openit](https://github.com/yu-steven/openit), 节点数量: `0`
 
