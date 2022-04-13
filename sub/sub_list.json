@@ -26,5 +26,12 @@
     "site": "https://moon365free.pages.dev/",
     "url": "https://flag.moon365.workers.dev/moon365free/base64",
     "enabled": false
+  },
+  {
+    "id": 4,
+    "remarks": "Jsnzkpg/Jsnzkpg",
+    "site": "https://github.com/Jsnzkpg/Jsnzkpg",
+    "url": "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg",
+    "enabled": true
   }
 ]
