@@ -21,8 +21,8 @@
 </details>
 
 ### 所有节点
-合并节点总数: `18`
+合并节点总数: `176`
 
 ### 节点来源
-- [yu-steven/openit](https://github.com/yu-steven/openit), 节点数量: `18`
+- [yu-steven/openit](https://github.com/yu-steven/openit), 节点数量: `176`
 
